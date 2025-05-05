@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ruan11223344-mcpdocserver-badge.png)](https://mseep.ai/app/ruan11223344-mcpdocserver)
+
 # McpDocServer
 
 [English Documentation](README_EN.md)
